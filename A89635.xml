@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles King of England, the infinite eternal being, the onely true and living God (who formed thee in thy mothers womb, and breathed into thee the breath of life) loe he is near thee, ...</title>
+            <author>Mason, Martin, fl. 1650-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89635</idno>
+            <idno type="STC">Wing M925</idno>
+            <idno type="STC">Thomason 669.f.26[33]</idno>
+            <idno type="STC">ESTC R210852</idno>
+            <idno type="EEBO-CITATION">99869607</idno>
+            <idno type="PROQUEST">99869607</idno>
+            <idno type="VID">163915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f26[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles King of England, the infinite eternal being, the onely true and living God (who formed thee in thy mothers womb, and breathed into thee the breath of life) loe he is near thee, ...</title>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson, at the Black-spread-Eagle and Wind-mill, in Martins l'Grand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Signed: Martin Mason.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Duties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163915:1" rendition="simple:additions"/>
+            <opener>
+               <salute>Charles, King of England,</salute>
+            </opener>
+            <p>THe Infinite Eternal Being, the onely True and Living
+GOD (who formed thee in thy Mothers womb, and brea<g ref="char:EOLhyphen"/>thed
+into thee the breath of life) Loe he is near thee, his
+piercing. Witneſs is within thee, his All-ſeeing Eie beholds
+thee, he ſearches thy heart and tries thy reins, the depths
+of thy Counſels are diſcovered to him; O King! Fear and dread be<g ref="char:EOLhyphen"/>fore
+him. The Lord God Omnipotent, who ruleth in the Kingdoms
+of men, &amp; diſpoſeth of them as he pleaſeth, hath exerciſed thee with va<g ref="char:EOLhyphen"/>rious
+viciſſitudes, &amp; ſuffered thee to be a man of ſorrows; he hath led thee
+through many ſtraits, that in thy proſperity thou ſhouldſt remember
+him, and bow unto him: he hath caſt thee down, and he hath raiſed
+thee up, and now wonderfully ſet thee upon thy Father's Throne, even
+to the amazement of the people; give him the glory of all. Now thou
+art chief-Ruler of a numerous Nation, a wiſe and knowing people are
+thy ſubjects; O that <hi>Solomon's</hi> requeſt unto his God were thine, that
+thou mightſt rightly go in and out before this people. Then ſhould di<g ref="char:EOLhyphen"/>vine
+Wiſdom be thy Diadem, and thou ſhouldſt be a bleſſing to the
+people.</p>
+            <p>And now that the Lord hath dealt thus bountifully with thee, Come
+let us Reaſon together, and expoſtulate a little what may be for thy
+good, and what the God of thy life requireth of thee: For know this,
+O King, that in thy Life and Government conſiſts thy preſent, future
+and eternal happineſs. I have ſeen, I have ſeen the place thou ſtands on
+to be ſlippery ground, and the need thou haſt of Divine ſupportment;
+for what thy own infirmities, and the iniquities of the people thou lea<g ref="char:EOLhyphen"/>neſt
+to (whoſe delight is not in the Law of the living God) thy con<g ref="char:EOLhyphen"/>dition
+certainly is very ſad, and to be lamented by all that loves thee.
+Was it the mind of the Lord in this laſt overturning and change of Go<g ref="char:EOLhyphen"/>vernment
+onely to advance an Outward Monarchy, or an eartlily King<g ref="char:EOLhyphen"/>dom?
+to re-edifie the Towers of <hi>Babel?</hi> to beautifie an adulterated
+Harlot, and renounce his Spouſe? to crown <hi>Babylon</hi> and her Merchants,
+and leave <hi>Sion</hi> and her children in the duſt? Or hath the Lord any
+pleaſure in the fleſh-pots of <hi>Egypt?</hi> or can he have fellowſhip with the
+unfruitful works of darkneſs? or will he lend his ear to the yelling
+noiſe of the wicked? Art thou altogether ignorant of the wonderful
+things which the Lord will do? Can he forſake his <hi>Sion?</hi> can he delight
+himſelf in <hi>Babylon?</hi> or thinkeſt thou he hath forgotten to be gracious to
+his people? He cannot forget his Own, his Seed is ſure to be remembred
+by him, and the Kings of the Earth muſt bow before him.</p>
+            <p>There is a people that are near unto thee, and enjoy a liberal ſhare
+of thy natural affections; but, O King! their hearts are not right be<g ref="char:EOLhyphen"/>fore
+the Lord, nor are ſome of them faithful in their love to thee. By
+their fruits thou ſhalt know them, if they creep into places of honour,
+profit and preferment to themſelves, if they hunt after the Earth, and
+mind earthly things, they are of <hi>Eſau's</hi> generation. Beware of them,
+for they will ſooner enrich themſelve<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n thy Ruine, then either ſerve
+thee or their generation faithfully. There are others alſo, who with
+their tongues extol thee, but the guile of their hearts, and the burning
+heat in their breaſts diſhonor thee; Rancour and malice remain un<g ref="char:EOLhyphen"/>mortified,
+and they take counſel together for the blood of the innocent.
+Theſe men know not how to forgive an enemy: O King! be wiſe, and
+let not ſuch have too much influence upon thee. Another ſort there is
+that are of <hi>Haman</hi>'s nature; couldſt thou give every individual of them
+to the half of thy Kingdom, yet while <hi>Mordecai</hi> ſits in the gate, and
+bows not to that exalted ſpirit, all would not avail them; <hi>Ammon</hi> and
+<hi>Amalech</hi> will join hand in hand to incenſe the King againſt the inno<g ref="char:EOLhyphen"/>cent
+<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd if poſſible, through their miſ-reports and importunity ob<g ref="char:EOLhyphen"/>tain
+a Decree from <hi>Caeſar</hi> for the Baniſhment or Deſtruction of that Peo<g ref="char:EOLhyphen"/>ple.
+Theſe men with their <hi>Dulce Venenum</hi> will indanger thee; and if
+thou giveſt thy power unto them, will unavoidably be thy Ruine; <hi>There<g ref="char:EOLhyphen"/>fore
+hear O King! and deſpiſe not good counſel.</hi>
+            </p>
+            <p>Give not the choiceſt Jewel in thy Crown to ſuch unworthy Coun<g ref="char:EOLhyphen"/>ſellors,
+but ſtay thy mind upon the the Royal Law written in thy Heart
+with the finger of the living God; let thy delight be to read and medi<g ref="char:EOLhyphen"/>tate
+on that golden Book day and night. Make that invaluable Jewel of
+my God placed in thy ſoul, the Line or Rule of thy life, and that will
+make thy Life happy, and thy Reign glorious. 'Tis the ſpring of Divine
+Wiſdom; Drink thy fill, O King, at that celeſtial Fountain; drink, I
+ſay, abundantly thereat, thou canſt never draw it dry. O that thy
+heart were refreſhed with the ſtreams of Eternal life that flows from it.</p>
+            <p>And now the remaining part of my meſſage to thee, is that which the righte<g ref="char:EOLhyphen"/>ous
+God expecteth from thee.</p>
+            <p>Dwell, O King, in that noble Principle which leads to Mercy and Mo<g ref="char:EOLhyphen"/>deration,
+Lean no longer upon the Reeds of <hi>Egypt,</hi> nor truſt no more
+to the inchantments of her Magicians; but let them know thou dwel'ſt
+in that wiſdom which is above them, and haſt now learnt to forgive an
+Enemy: O King I counſel thee, be drawn no further into Blood; but
+make them <hi>Quondams</hi> I require thee, that ſhall wilfully perſiſt to miniſter
+any Woolviſh Counſel to thee; Drink no more of their bitter waters.
+Be cloathed with the Royal Robe of Clemency, and count it thy honor
+to be affectionately kind to the Kingdom, to paſs by injuries, and for<g ref="char:EOLhyphen"/>give
+wrongs; For to ſhew mercy is better than to be dyed in blood, and
+would ſooner inthrone thee in the affections of the people, than out<g ref="char:EOLhyphen"/>ward
+force or violence; and count them not thy friends that counſels
+thee to the contrary.</p>
+            <p>And as for Religion, This the righteous God requireth of thee: Live
+in that which is pure and undefiled, and keep within thy Sphere: Force
+not any to an outward Form; for Conſcience is Chriſt's Throne, and
+if thou ſeek'ſt to Lord it there, or ſuffers others ſo to do, thou art an U<g ref="char:EOLhyphen"/>ſurper,
+and Sion's King will plead his Controverſie with thee, and make
+War againſt thee, and be too hard for thee. Therefore O King, let the
+Seed of God go free, and be no longer oppreſſed by the Egyptian Task<g ref="char:EOLhyphen"/>maſters:
+Take not that Authority upon thee, which Chriſt the Son of
+God never gave unto thee, nor no power; But let every man worſhip
+his God as he is perſwaded in his conſcience; for what is not of faith is
+ſin, and faith is the gift of God. Wouldſt thou, O King, be forced to a<g ref="char:EOLhyphen"/>ny
+form againſt thy Conſcience? Surely not. Then do not thou offer
+to uſe ſorce againſt the People, but let equal liberty herein be given to
+all people, I require it of thee in the Name of the Living God, as their
+proper right and privilege, and as thou expects his bleſſing in this world,
+and in the world to come. And roll away the ſtone of reproach from
+this Engliſh Nation, which long hath been a profeſſing People; I ſay re<g ref="char:EOLhyphen"/>move
+and take away all force and compulſion about Religion, and
+down with Tythes and all forced maintenance of any Miniſtry. Ah how
+many of the dear children of God are now in Bonds, and have been
+long in ſeveral Gaols of this Nation, and ſome have there ended their
+daies for conſcience ſake, becauſe they cannot ſatisfie a greedy, devou<g ref="char:EOLhyphen"/>ring
+Antichriſtian Miniſtry. Shall not, and hath not the righteous
+God viſited for theſe things. O let the innnocent ſufferings of the righ<g ref="char:EOLhyphen"/>teous
+Seed come before thee, let the cry of the oppreſſed pierce through
+thee, and enter into thy bowels, that thy heart may be filled with com<g ref="char:EOLhyphen"/>paſſion
+towards them, and the Priſon-doors by thee may be opened for
+them, and for all that ſuffer for Righteouſneſs ſake: This is a work
+would make thee glorious, and happy were <hi>Englands</hi> King, would he
+thus favour God's people. But if thou ſtill wilt ſtop thy ears to good
+counſel, and give away thy power to the Prelates who will perſecute,
+and if thou wilt ſtrengthen the hands of the Uncircumciſed Philiſtins;
+if thou wilt make Covenant with Death, and let thy little fingers prove
+heavier then the loins of thy Predeceſſors, and ſeek to baniſh Truth out
+of thy Coaſts, and utterly ſubvert the Royal Seed;</p>
+            <p>Then know this, O King; The righteous God who ſet thee upon the
+Throne, will pluck thee down; He will overthrow on the right hand, and
+on the left, until <hi>Sions</hi> enemies be confounded: He will take the King<g ref="char:EOLhyphen"/>dom
+from thee; He will overturn thy Mountain, and lay thine honor in
+the Duſt, and work deliverance for his people in a way which yet thou
+ſeeſt not; And then ſhalt thou know the words of Truth are ſpoken by me,</p>
+            <closer>
+               <note n="*" place="margin">Obſequium amicos Veritas odium parit.</note>
+               <signed>Who am Thy Friend, yet ſhall be contented if I am<lb/>
+counted Thy Enemy, <hi>Martin Maſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT:</head>
+            <p>NEver had King of <hi>England</hi> more precious Warnings from the life of God,
+then God hath given unto Thee: Oh King! what ſhall I ſay unto Thee?
+Wilt Thou ſtill caſt all his Councels behind Thee? O that Thou wouldſt anſwer his
+Love unto Thee, by thy Life and Government, in Mercy, Truth, and Righteouſneſs;
+Let not Truth be deſpiſed by Thee, becauſe by the world 'tis miſ-reported to Thee;
+The world loves its own. 'Tis onely TRUTH that is truly ho<g ref="char:EOLhyphen"/>norable;
+and Vertue is the true Nobility.<note place="margin">Virtus eſt vera Nobilitas.</note> Truth is invincible;
+the more man ſeeks to ſuppreſs it, the more it grows; the Gates
+of Hell cannot prevail againſt it; nor can all the ſtrength of <hi>E<g ref="char:EOLhyphen"/>gypt</hi>
+daunt or overcome it: Truth is ſtronger then All; and that is a Meaſure of it
+which in Thy Conſcience bears its Teſtimony againſt all Iniquity. All that ſtrive a<g ref="char:EOLhyphen"/>gainſt
+it (the Truth) ſhall be broken by it. Therefore O King, keep friendſhip with
+it, and conſent Thou not to any unrighteous Decree againſt it; Nor ſay not within
+thy ſelf, This Cover ſhall excuſe Me, My Peers, My Prelates, or My Parliament
+ſo counſel'd and perſwaded Me, for the guilt will ſtick upon Thee; but in time be a<g ref="char:EOLhyphen"/>waken'd,
+and let the Ruines of others who are gone before Thee, who once in ſtrength
+were equal with Thee, be a Warning to Thee; for of a truth Our God is no reſpecter
+of perſons; if Thou does well, ſhall Thou not be accepted? But if thou wilt not own
+God's Light in thy Conſcience, and by it be guided, nor remove Oppreſſion and op<g ref="char:EOLhyphen"/>preſſing
+Laws, nor ſet up Judges as at the beginning, men fearing God, and hating
+Covetouſneſs, but wilt make war againſt the Lamb, and ſuffer thy ſelf to be enſna<g ref="char:EOLhyphen"/>red
+and ſeduced by the deceitful Generation; then know aſſuredly, 'Tis in vain for
+Thee to ſtrive againſt Thy Maker, God will be juſtified when he pleads his Contro<g ref="char:EOLhyphen"/>verſie
+with Thee in the day of thy Calamity, which will aſſuredly come upon Thee, if
+in the Light Thou believeſt not. Wherefore O King be wiſe, and remember Thou
+art once more warned.</p>
+            <closer>
+               <dateline>Lincoln <date>the ſecond day of the 9. Mon. 1660.</date>
+               </dateline>
+               <signed>M. M:</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, printed for <hi>Robert Wilſon,</hi> at the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-mill,</hi> in <hi>Martins l'Grand,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
